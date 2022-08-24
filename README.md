@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- ORANGE -->
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=ebcfb2&bg_color=373f51)]()
+
+<!--
+DARK
+https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true&show_icons=true&title_color=fff&icon_color=%2079ff97&text_color=9f9f9f&bg_color=000
+
+BLUE
+https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true&show_icons=true&bg_color=10,042698,000438&icon_color=fff&title_color=ffffff&text_color=DBDCDE
+-->
