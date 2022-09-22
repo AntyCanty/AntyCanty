@@ -25,4 +25,3 @@ https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true
 BLUE
 https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true&show_icons=true&bg_color=10,042698,000438&icon_color=fff&title_color=ffffff&text_color=DBDCDE
 -->
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AntyCanty&theme=blue-green)
