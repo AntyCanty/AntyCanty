@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Antimo Cantiello</h1>
+
 <!--### Hi there 👋-->
 
 <!--
@@ -16,8 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- ORANGE -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=ebcfb2&bg_color=373f51" alt="AntyCanty" /></p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AntyCanty&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=ebcfb2&bg_color=373f51)](https://github.com/AntyCanty)
 
+<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AntyCanty&count_private=true&show_icons=true&title_color=e07a5f&icon_color=edae49&text_color=ebcfb2&bg_color=373f51)](https://github.com/AntyCanty)
+-->
 
 <!--
 DARK
